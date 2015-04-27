@@ -1,4 +1,4 @@
-# TestsProject
+# Tests Project
 
 Tests used in this project
 
