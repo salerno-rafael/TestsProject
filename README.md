@@ -17,10 +17,7 @@ usage procedures, and operating procedures, are tested to determine whether they
 
 
 #Contract Testing
-This test is base on Design by Contract.
-It prescribes that software designers should define formal, precise and verifiable interface specifications 
-for software components, which extend the ordinary definition of abstract data types with preconditions, postconditions and invariants. 
-These specifications are referred to as "contracts", in accordance with a conceptual metaphor with the conditions and obligations of business contracts.
-For this teste must avoid influence with externals agents. This agents must be simulated.
+this kind of tests has the same intention of integration tests, check the internal behavior on system but in this case avoiding influence with externals componets.
+
 
 
